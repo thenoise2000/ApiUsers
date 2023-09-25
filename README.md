@@ -59,7 +59,7 @@ En la seccion de respuesta generara un token debes copiarlo y dirigirse a la sec
 
 A continuacion escriba en la barra de direcciones de postman 
 
-POST http://localhost:8080/api/nisum/add  
+POST http://localhost:8080/api/nisum/users  
 
  Antes debe incluir el token en el encabezado de la solicitud HTTP utilizando el siguiente formato:
 
